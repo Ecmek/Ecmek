@@ -1,8 +1,8 @@
 ### ВСЕМ ПРИВЕТ 👋 Меня зовут Герман. 
 
 ## МОЙ СТЕК ТЕХНОЛОГИЙ
-![Python](/svg/git.svg)
-![Django](/svg/git.svg)
+![Python](/svg/django.svg)
+![Django](/svg/python.svg)
 ![Git](/svg/git.svg)
 
 
