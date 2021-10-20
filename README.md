@@ -1,5 +1,11 @@
 ### ВСЕМ ПРИВЕТ 👋 Меня зовут Герман. 
 
+## МОЙ СТЕК ТЕХНОЛОГИЙ
+![Python](/svg/git.svg)
+![Django](/svg/git.svg)
+![Git](/svg/git.svg)
+
+
 ## МОИ КОНТАКТЫ
 [<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in/garartg/)
 [<img src="./svg/telegram.svg">](https://t.me/gerarg)
