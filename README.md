@@ -1,3 +1,5 @@
+### ВСЕМ ПРИВЕТ 👋 Меня зовут Герман. 
+
 ## МОИ КОНТАКТЫ
 [<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in/garartg/)
 [<img src="./svg/telegram.svg">](https://t.me/gerarg)
