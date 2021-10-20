@@ -3,6 +3,8 @@
 ## МОЙ СТЕК ТЕХНОЛОГИЙ
 ![Python](/svg/django.svg)
 ![Django](/svg/python.svg)
+![HTML](/svg/html-5.svg)
+![CSS](/svg/css3.svg)
 ![Git](/svg/git.svg)
 
 
