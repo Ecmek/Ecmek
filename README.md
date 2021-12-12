@@ -16,3 +16,4 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ecmek&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ecmek&layout=compact&theme=dark)
