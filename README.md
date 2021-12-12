@@ -16,4 +16,13 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ecmek&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ecmek&layout=compact&theme=dark)]
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ecmek&layout=compact&theme=dark)
+
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=ecmek&hide=contribs&show_icons=true&theme=dark">
+  <img  align="center" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=ecmek&hide=contribs&show_icons=true&theme=dark" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ecmek&layout=compact&theme=dark">
+  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecmek&layout=compact&theme=dark" />
+</a>
+</div>
